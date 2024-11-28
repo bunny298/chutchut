@@ -121,7 +121,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
 
       noButtonState++;
       document.getElementById("noBtn").onclick = function() {  
-        if (confirm("EM THẬT SỰ KHÔNG YÊU ANH SAO?")) {  
+        if (confirm("EM KHÔNG YÊU ANH THẬT SAO?")) {  
             window.location.href = "./troll.mp4";  
         }  
     };  
