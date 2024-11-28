@@ -17,7 +17,7 @@ document.getElementById("siBtn").addEventListener("click", function () {
 
   document.getElementById("messageContainer").style.display = "block";
   document.getElementById("messageContainer").innerHTML =
-    "<33";
+    "Anh biết em yêu anh mà!!! <33";
 
   setTimeout(function () {
     document.getElementById("happyGifContainer").style.display = "none";
