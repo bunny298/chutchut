@@ -13,7 +13,7 @@ body {
 
 #gifContainerImg {
     width: 60%;
-    height: 60%;
+    height: auto;
 }
 
 button {
